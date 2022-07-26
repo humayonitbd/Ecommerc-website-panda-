@@ -4,3 +4,20 @@
     box-sizing: border-box;
     outline: 0;
 }
+
+.section-padding{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.contact{
+    height: 350px;
+}
+
+.background-carocel{
+    background: #FEEAE9;
+
+}
+.background-product{
+    background: #F4F4F4;
+
+}
